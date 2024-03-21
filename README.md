@@ -18,8 +18,11 @@ The application will display the total counts of people moving up and down in th
 **Requirements:**
 
 Python 3.x
+
 Tkinter
+
 OpenCV
+
 Pillow (PIL)
 
 **Installation:**
